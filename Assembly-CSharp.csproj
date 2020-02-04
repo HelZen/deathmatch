@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DisablePostProcessing.cs" />
+    <Compile Include="Assets\Scripts\Gun.cs" />
+    <Compile Include="Assets\Scripts\Target.cs" />
     <Compile Include="Assets\Scripts\player\Grab.cs" />
     <Compile Include="Assets\Scripts\player\MouseLook.cs" />
     <Compile Include="Assets\Scripts\player\PlayerMovement.cs" />
